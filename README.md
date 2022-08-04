@@ -1,8 +1,8 @@
 # All the services i host on my servers  
 
 ## Content  
-[SearxNG](https://github.com/j4asper/selfhosted/main/README.md#SearxNG)  
-[MicroBin](https://github.com/j4asper/selfhosted/main/README.md#MicroBin)  
+[SearxNG](https://github.com/j4asper/selfhosted/blob/main/README.md#searxng)  
+[MicroBin](https://github.com/j4asper/selfhosted/blob/main/README.md#microbin)  
 
 ---
 
