@@ -1,5 +1,4 @@
 # All the services i host on my servers  
-Expect a lot of privacy focused services.  
 
 ## Content  
 [SearxNG](https://github.com/j4asper/selfhosted/main/README.md#searxng)
