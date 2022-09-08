@@ -2,7 +2,7 @@
 
 ## Content  
 [SearxNG](https://github.com/j4asper/selfhosted/blob/main/README.md#searxng)  
-[Draw.io](https://github.com/j4asper/selfhosted/blob/main/README.md#draw.io)  
+[Draw.io](https://github.com/j4asper/selfhosted/blob/main/README.md#drawio)  
 [CyberChef](https://github.com/j4asper/selfhosted/blob/main/README.md#cyberchef)  
 
 ---
