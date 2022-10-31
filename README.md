@@ -1,9 +1,10 @@
-# All the services i host on my servers  
+# All the services I host on my server  
 
 ## Content  
 [SearxNG](https://github.com/j4asper/selfhosted/blob/main/README.md#searxng)  
 [Draw.io](https://github.com/j4asper/selfhosted/blob/main/README.md#drawio)  
 [CyberChef](https://github.com/j4asper/selfhosted/blob/main/README.md#cyberchef)  
+[WiFi Card](https://github.com/j4asper/selfhosted/blob/main/README.md#wifi-card)  
 
 ---
 
@@ -15,3 +16,6 @@
 
 ## [CyberChef](https://cyberchef.jazper.dk/)  
 **[GCHQ CyberChef](https://github.com/gchq/CyberChef/) in a container. CyberChef is the Cyber Swiss Army Knife web app for encryption, encoding, compression and data analysis.**  
+
+## [WiFi Card](https://wifi.jazper.dk/)  
+**[WiFi Card](https://github.com/bndw/wifi-card) Print a QR code for connecting to your WiFi**
